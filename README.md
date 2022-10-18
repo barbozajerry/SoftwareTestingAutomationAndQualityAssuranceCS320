@@ -10,7 +10,7 @@ At first I must understand the user needs by obtaining information through user 
 
 <h2>How do I approach designing software?</h2>
 
-The two main approaches to software design are *Function-Oriented Approach* and *Object-Oriented Approach*.
+The two main approaches to software design are <bold>*Function-Oriented Approach*</bold> and *Object-Oriented Approach*.
 
 
 
