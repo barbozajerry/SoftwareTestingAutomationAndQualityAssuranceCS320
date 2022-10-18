@@ -6,5 +6,11 @@ To ensure that my code, program, or software is functional and secure, I must sp
 
 <h2>How do I interpret user needs and incorporate them into a program?</h2>
 
+At first I must understand the user needs by obtaining information through user stories and understand a diverse of users since every user will have different needs and I can see the most popular and important needs. To interpret user needs I can use analysis models inolving diagrams and structured text and then incorporate them into a program. 
+
 <h2>How do I approach designing software?</h2>
+
+The two main approaches to software design are *Function-Oriented Approach* and *Object-Oriented Approach*.
+
+
 
